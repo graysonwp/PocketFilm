@@ -15,7 +15,7 @@
     "md5": "^2.2.1",
     "mongoose": "^5.4.18",
     "node-tesseract": "^0.2.7",
-    "pm2": "^3.5.1",
+    "pm2": "^5.2.0",
     "querystring": "^0.2.0",
     "request": "^2.88.0",
     "require": "^2.4.20",
