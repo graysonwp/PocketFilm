@@ -64,7 +64,7 @@
     "integrator-cordova-plugin-downloader": "1.1.0",
     "ionic": "^4.12.0",
     "ionic-angular": "^3.9.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nosleep": "^2.0.0",
     "okhttp": "^1.1.0",
     "platform": "^1.3.5",
