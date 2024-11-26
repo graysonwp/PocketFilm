@@ -9,7 +9,7 @@
     "elasticsearch": "^16.4.0",
     "express": "^4.16.4",
     "fs": "0.0.1-security",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "js-video-url-parser": "^0.3.3",
     "jsdom": "^14.0.0",
     "md5": "^2.2.1",
